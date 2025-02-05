@@ -1,5 +1,5 @@
 
-<h1 align="center">Embarcatec | Segunda Atividade Individual</h1>
+<h1 align="center">Embarcatec | Temporizador de um disparo (One Shot)</h1>
 
 ## Objetivo
 
